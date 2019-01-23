@@ -26,10 +26,10 @@ github_username: winstonlarson
 # social_username: jekyllrb
 
 # Set theme
-theme: minima
-# remote_theme: broccolini/swiss
+# theme: minima
+remote_theme: broccolini/swiss
 # Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
-# theme_color: black
+theme_color: black
 
 # Build settings
 markdown: kramdown
