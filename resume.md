@@ -19,7 +19,7 @@ CCDS is a fast-growing medical AI group at MGH & BWH, focused on developing ML p
 
 ## Strategy Consultant
 Jan 2014 - May 2017
-###Innosight
+### Innosight
 Lexington, MA
 
 Innosight is a boutique innovation consulting firm focused on developing strategies to help Fortune 500 companies respond to disruptive innovation. As a member of the consulting team, I was responsible for research and analysis, client communications, project management, and firm development. I started as an analyst and was promoted twice, finally to senior associate.
@@ -29,14 +29,18 @@ Innosight is a boutique innovation consulting firm focused on developing strateg
 * **Health Insurance Big Data:** Created a new organizational design, project execution process, and outcomes evaluation model for a big data group at a major health insurer. Outlined new ways to deliver value to payor business units, work collaboratively with internal customers, and communicate impact.
 * **Pharm R&D Venture Accelerator:** Built a new in-house venture accelerator for high-risk breakthrough research at a major pharma. Engaged with R&D org leadership to align with long-term therapeutic strategy. Responsible for organizational design, funding structure, identifying opportunity areas, evaluating potential ventures, and finding talent. 
 
+# Engineering Internships
+* **Boeing Company** Summer 2012 | Manufacturing and Robotics Engineering | Renton, WA
+* **Schlumberger Limited** Summer 2011 | Manufacturing Engineering | Princeton, NJ
+
 # Education
 ## MASSACHUSETTS INSTITUTE OF TECHNOLOGY
-**SM Mechanical Engineering**
-Jan 2014
+**SM Mechanical Engineering -** Jan 2014
+
 GPA 5.0/5.0, MIT Presidential Fellow
 
-**SB Mechanical Engineering**
-Jun 2012
+**SB Mechanical Engineering -** Jun 2012
+
 GPA 5.0/5.0, Pi Tau Sigma Honor Society
 
 # Skills
