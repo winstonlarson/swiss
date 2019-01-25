@@ -30,11 +30,11 @@ Innosight is a boutique innovation consulting firm focused on developing strateg
 * **Pharm R&D Venture Accelerator:** Built a new in-house venture accelerator for high-risk breakthrough research at a major pharma. Engaged with R&D org leadership to align with long-term therapeutic strategy. Responsible for organizational design, funding structure, identifying opportunity areas, evaluating potential ventures, and finding talent. 
 
 # Engineering Internships
-* **Boeing Company** Summer 2012
+**Boeing Company** Summer 2012
 
 Manufacturing and Robotics Engineering - Renton, WA
 
-* **Schlumberger Limited** Summer 2011
+**Schlumberger Limited** Summer 2011
 
 Manufacturing Engineering - Princeton, NJ
 
