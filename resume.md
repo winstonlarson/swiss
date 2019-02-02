@@ -4,12 +4,11 @@ title: Resume
 permalink: /resume/
 ---
 
-# Professional Experience
+# PROFESSIONAL EXPERIENCE
 
 ## Product & Strategy Manager
-May 2017 - Present
-### MGH & BWH Center for Clinical Data Science (CCDS)
-Boston, MA
+*May 2017 - Present* <br>
+**MGH & BWH Center for Clinical Data Science (CCDS)** \| Boston, MA
 
 CCDS is a fast-growing medical AI group at MGH & BWH, focused on developing ML products and deploying them in the clinic, with an early focus on radiology. I am responsible for product strategy and execution of ML models and software tools. I joined as an early employee, fulfilling responsibilities in product development, strategy, and operations.
 * **Product management:** Product manager for clinical inference platform, which allows ML models to be run in the clinical workflow at the hospital. Also product manager for annotation tool, which allows radiologists to annotate images for ML model training. For both products, created product strategy, wrote requirements and documentation, and worked with scrum team to develop features. Managed team of clinical product managers and oversaw product development efforts in machine learning.
@@ -18,9 +17,8 @@ CCDS is a fast-growing medical AI group at MGH & BWH, focused on developing ML p
 * **Program management and operations:** Managed day-to-day coordination between software, ML, and infrastructure teams. Lead technical program management. Helped develop GPU data center. Supported creation of a quality management system (21 CFR part 11). Filled operational roles to support CCDS as it grew, including finance and accounting, and recruiting and HR.
 
 ## Strategy Consultant
-Jan 2014 - May 2017
-### Innosight
-Lexington, MA
+*Jan 2014 - May 2017* <br>
+**Innosight** \| Lexington, MA
 
 Innosight is a boutique innovation consulting firm focused on developing strategies to help Fortune 500 companies respond to disruptive innovation. As a member of the consulting team, I was responsible for research and analysis, client communications, project management, and firm development. I started as an analyst and was promoted twice, finally to senior associate.
 
@@ -29,24 +27,20 @@ Innosight is a boutique innovation consulting firm focused on developing strateg
 * **Health Insurance Big Data:** Created a new organizational design, project execution process, and outcomes evaluation model for a big data group at a major health insurer. Outlined new ways to deliver value to payor business units, work collaboratively with internal customers, and communicate impact.
 * **Pharm R&D Venture Accelerator:** Built a new in-house venture accelerator for high-risk breakthrough research at a major pharma. Engaged with R&D org leadership to align with long-term therapeutic strategy. Responsible for organizational design, funding structure, identifying opportunity areas, evaluating potential ventures, and finding talent. 
 
-# Engineering Internships
-**Boeing Company** Summer 2012
-
+## Engineering Internships
+**Boeing Company -** *Summer 2012* <br>
 Manufacturing and Robotics Engineering - Renton, WA
 
-**Schlumberger Limited** Summer 2011
-
+**Schlumberger Limited -** *Summer 2011* <br>
 Manufacturing Engineering - Princeton, NJ
 
-# Education
-## MASSACHUSETTS INSTITUTE OF TECHNOLOGY
-**SM Mechanical Engineering -** Jan 2014
-
+# EDUCATION
+## Massachusetts Institute of Technology
+**SM Mechanical Engineering -** *Jan 2014* <br>
 GPA 5.0/5.0, MIT Presidential Fellow
 
-**SB Mechanical Engineering -** Jun 2012
-
+**SB Mechanical Engineering -** *Jun 2012* <br>
 GPA 5.0/5.0, Pi Tau Sigma Honor Society
 
-# Skills
+# SKILLS
 Software product management, strategy & business development, financial modeling, agile/scrum, Python, MS Office
