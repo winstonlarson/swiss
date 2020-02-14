@@ -34,3 +34,5 @@ remote_theme: broccolini/athena
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-minimal
