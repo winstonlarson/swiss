@@ -183,12 +183,12 @@
 
 // Link styles for front page post titles
 .link-primary-front {
-  color: $black;
+  color: $black !important;
   font-weight: bold;
   text-decoration: none !important;
 
   &:hover {
-    color: $color-primary-link;
+    color: $color-primary-link !important;
     text-decoration: none !important;
   }
 }
