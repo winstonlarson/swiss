@@ -19,6 +19,7 @@ code {
 .prose {
 
   a {
+    color: $color-text-accent;
     text-decoration: underline dotted;
 
     &:hover {
