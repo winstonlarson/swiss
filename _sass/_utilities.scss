@@ -180,3 +180,15 @@
     text-decoration: none !important;
   }
 }
+
+// Link styles for front page post titles
+.link-primary-front {
+  color: $black;
+  font-weight: bold;
+  text-decoration: none !important;
+
+  &:hover {
+    color: $color-primary-link;
+    text-decoration: none !important;
+  }
+}
