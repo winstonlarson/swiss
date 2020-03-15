@@ -18,17 +18,17 @@ title_c: WINSTON LARSON
 description: Product | Technology | Innovation
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_repo: winstonlarson.github.io # the GitHub repo name for your project
-github_username: winstonlarson
+# github_repo: winstonlarson.github.io # the GitHub repo name for your project
+# github_username: winstonlarson
 
 # Optional social link, you can choose from the following options:
 # twitter (default), instagram, medium, or dribbble
-# social_link: twitter
-# social_username: jekyllrb
+social_link: twitter
+social_username: winstonlarson
 
 # Set theme
 # theme: minima
-remote_theme: broccolini/athena
+# remote_theme: broccolini/athena
 # Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
 # theme_color: black
 
