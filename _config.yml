@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: INQUIRY by Winston Larson
-title_c: INDIFFERENT INQUIRY
+title_c: indifferent INQUIRY
 description: "Bringing order to chaos<br/><br/>by Winston Larson"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -28,7 +28,7 @@ social_username: winstonlarson
 
 # Set theme
 # theme: minima
-remote_theme: broccolini/athena
+# remote_theme: broccolini/athena
 # Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
 # theme_color: black
 
