@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: thinking wrongly | Winston Larson
 title_c: thinking wrongly
-description: "<b>Bringing order to chaos</b><br/><br/><i>by Winston Larson</i>"
+description: "<b>The truth will out.</b><br/><br/><i>by Winston Larson</i>"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # github_repo: winstonlarson.github.io # the GitHub repo name for your project
